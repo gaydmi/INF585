@@ -1,0 +1,11 @@
+The project could be compiled and executed this way:
+
+$ cd cmake
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+$ cd ../..
+$ cmake/build/scene
+
+Tested on linux system only
